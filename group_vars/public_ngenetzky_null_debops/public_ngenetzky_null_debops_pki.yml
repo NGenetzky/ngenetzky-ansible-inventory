@@ -1,0 +1,8 @@
+pki_acme: false
+pki_ca_domain: ''
+pki_ca_organization: ''
+pki_default_domain: ''
+pki_default_realms: []
+pki_enabled: false
+pki_internal: false
+pki_scheduler: false
