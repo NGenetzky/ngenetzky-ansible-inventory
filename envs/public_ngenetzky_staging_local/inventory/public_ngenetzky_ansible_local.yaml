@@ -3,3 +3,5 @@ all:
   children:
     public_ngenetzky_ansible_local:
       localhost:
+    public_ngenetzky_staging_debops:
+      localhost:
