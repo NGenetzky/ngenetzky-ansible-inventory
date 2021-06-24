@@ -1,0 +1,5 @@
+---
+all:
+  children:
+    public_ngenetzky_ansible_local:
+      localhost:
