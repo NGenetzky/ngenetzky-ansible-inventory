@@ -1,0 +1,3 @@
+---
+netbase__hostname_config_enabled: False
+netbase__hosts_config_type: 'disabled'
