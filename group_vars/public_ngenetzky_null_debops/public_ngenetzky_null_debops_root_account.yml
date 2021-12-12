@@ -1,3 +1,5 @@
+---
 root_account__enabled: false
 root_account__generate_ssh_key: false
 root_account__password: '!'
+root_account__packages: []
