@@ -1,2 +1,5 @@
+---
 system_users__default_accounts: []
 system_users__self: False
+# Must be set to avoid issue with 'Gather local Ansible user details'
+system_users__self_name: 'root'
