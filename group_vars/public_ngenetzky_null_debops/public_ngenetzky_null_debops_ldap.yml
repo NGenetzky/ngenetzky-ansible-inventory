@@ -1,1 +1,4 @@
+---
 ldap__enabled: false
+ldap__device_ip_addresses: ''
+ldap__device_mac_addresses: ''
