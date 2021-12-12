@@ -61,6 +61,9 @@ Furthermore, the following prefixes are used:
 ``qubes``
   Optimized for use together with `Qubes OS`_ VMs.
 
+``null``
+  Disable features or capabilities to reduce complexity.
+
 
 The following suffixes are used:
 
